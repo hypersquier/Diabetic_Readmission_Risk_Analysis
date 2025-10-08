@@ -39,8 +39,7 @@ This project focuses on a deep, data-driven analysis of hospital records for dia
 
 ## Usage
 
-- data Source : [https://github.com/hypersquier/Amazon-Data-Analysis-Project/blob/main/amazon.csv](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-
+- data Source :https://www.kaggle.com/datasets/brandao/diabetes/data
 - Sql code : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/create_dashboard_view.sql
 
 - Final Olist E-commerce Performance Dashboard : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist.pbix
