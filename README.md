@@ -39,13 +39,10 @@ This project focuses on a deep, data-driven analysis of hospital records for dia
 
 ## Usage
 
-- data Source :https://www.kaggle.com/datasets/brandao/diabetes/data
-- Sql code : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/create_dashboard_view.sql
-
-- Final Olist E-commerce Performance Dashboard : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist.pbix
-
-- Final E-commerce Data Analysis Report (PowerPoint) : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/E-commerce%20Data%20Analysis%20Project%20(OLIST).pptx
-
+- **data Source** :https://www.kaggle.com/datasets/brandao/diabetes/data
+- **Sql code** : https://github.com/hypersquier/Diabetic_Readmission_Risk_Analysis/blob/main/view.sql
+- **Final Diabetic_Readmission_Risk_Analysis Dashboard** : https://public.tableau.com/views/projectmedcin/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **diabetic_readmission_analysis_final_data** : https://github.com/hypersquier/Diabetic_Readmission_Risk_Analysis/blob/main/Diabetic_Readmission_Risk_Analysis_Data.7z
 
 
 ## Contributing
